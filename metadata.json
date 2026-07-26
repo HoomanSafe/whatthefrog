@@ -1,0 +1,6 @@
+{
+  "name": "RobinDegen",
+  "description": "RobinDegen meme coin website on Robinhood Chain ($RobinDegen)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
