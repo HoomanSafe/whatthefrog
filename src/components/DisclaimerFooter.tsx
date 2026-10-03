@@ -24,7 +24,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
           <div className="flex items-center gap-3">
             <span className="text-3xl">🏹</span>
             <div>
-              <span className="font-bangers text-3xl text-white tracking-wider">RobinDegen</span>
+              <span className="font-bangers text-3xl text-white tracking-wider">WhatTheFrog</span>
               <p className="text-xs font-mono text-[#00c805]">$WTF • Built on Robinhood Chain 🍃</p>
             </div>
           </div>
@@ -80,7 +80,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
 
         {/* Bottom Rights & Back to Top */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-gray-400 pt-4">
-          <p>© {new Date().getFullYear()} RobinDegen ($WTF). Community Owned & Powered by Robinhood Chain.</p>
+          <p>© {new Date().getFullYear()} WhatTheFrog ($WTF). Community Owned & Powered by Robinhood Chain.</p>
           
           <button
             onClick={scrollToTop}

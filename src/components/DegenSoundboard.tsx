@@ -44,7 +44,7 @@ export const DegenSoundboard: React.FC = () => {
         </div>
 
         <h3 className="font-bangers text-3xl text-white mb-6">
-          RobinDegen <span className="text-[#00c805]">Soundboard</span>
+          WhatTheFrog <span className="text-[#00c805]">Soundboard</span>
         </h3>
 
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-3xl mx-auto">

@@ -84,7 +84,7 @@ export const Degenomics: React.FC = () => {
             <div className="relative rounded-2xl overflow-hidden border border-[#00c805]/40 aspect-square group">
               <img
                 src={ROBIN_DEGEN_IMAGES.lambo}
-                alt="RobinDegen Green Lambo to the Moon"
+                alt="WhatTheFrog Green Lambo to the Moon"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />

@@ -23,7 +23,7 @@ export const AboutSection: React.FC = () => {
               <div className="relative rounded-2xl overflow-hidden aspect-square bg-[#080d08]">
                 <img
                   src={ROBIN_DEGEN_IMAGES.army}
-                  alt="RobinDegen Army Returning Wealth to the People"
+                  alt="WhatTheFrog Army Returning Wealth to the People"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover rounded-2xl group-hover:scale-105 transition-transform duration-500"
                 />
@@ -60,13 +60,13 @@ export const AboutSection: React.FC = () => {
 
             <div className="space-y-4 text-gray-300 font-outfit text-base sm:text-lg leading-relaxed">
               <p>
-                Welcome to <strong className="text-white">RobinDegen</strong>, where memes meet moon missions. We’re building the true home of the Robinhood Chain degen community. Whether you’re here for the laughs, the culture, or the next legendary run, you’ve found your tribe.
+                Welcome to <strong className="text-white">WhatTheFrog</strong>, where memes meet moon missions. We’re building the true home of the Robinhood Chain degen community. Whether you’re here for the laughs, the culture, or the next legendary run, you’ve found your tribe.
               </p>
               <p>
-                RobinDegen is the meme coin for traders who buy when everyone else hesitates, HODL through the chaos, and chase the next green candle without looking back.
+                WhatTheFrog is the meme coin for traders who buy when everyone else hesitates, HODL through the chaos, and chase the next green candle without looking back.
               </p>
               <p>
-                Inspired by the legendary outlaw who took on the establishment, RobinDegen is built for a new generation of degens — those who believe crypto belongs to the community, not the gatekeepers.
+                Inspired by the legendary outlaw who took on the establishment, WhatTheFrog is built for a new generation of degens — those who believe crypto belongs to the community, not the gatekeepers.
               </p>
             </div>
 

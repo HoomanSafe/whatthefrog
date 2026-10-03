@@ -54,7 +54,7 @@ export const WhyRobinDegen: React.FC = () => {
           </div>
 
           <h2 className="font-bangers text-5xl sm:text-6xl text-white tracking-wide uppercase">
-            Why <span className="text-[#00c805] text-glow">RobinDegen</span>?
+            Why <span className="text-[#00c805] text-glow">WhatTheFrog</span>?
           </h2>
 
           <p className="text-gray-300 font-outfit text-lg">
@@ -100,7 +100,7 @@ export const WhyRobinDegen: React.FC = () => {
                 "SEND IT TO THE MOON! 🚀"
               </h3>
               <p className="text-gray-200 text-sm font-outfit">
-                Whether you’re sniping launches or holding for the 100x run, RobinDegen is your banner.
+                Whether you’re sniping launches or holding for the 100x run, WhatTheFrog is your banner.
               </p>
             </div>
             

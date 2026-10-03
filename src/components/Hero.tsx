@@ -148,7 +148,7 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
                   
                   <img
                     src={ROBIN_DEGEN_IMAGES.hero}
-                    alt="RobinDegen Moon Mission"
+                    alt="WhatTheFrog Moon Mission"
                     referrerPolicy="no-referrer"
                     className={`w-full h-full object-cover rounded-2xl transition-transform duration-700 ${isShooting ? 'scale-110 rotate-1' : 'group-hover:scale-105'}`}
                   />

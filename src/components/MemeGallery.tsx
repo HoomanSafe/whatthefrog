@@ -37,7 +37,7 @@ export const MemeGallery: React.FC = () => {
           </div>
 
           <h2 className="font-bangers text-5xl sm:text-6xl text-white tracking-wide uppercase">
-            RobinDegen <span className="text-[#00c805] text-glow">Motion Art</span>
+            WhatTheFrog <span className="text-[#00c805] text-glow">Motion Art</span>
           </h2>
 
           <p className="text-gray-300 font-outfit text-lg">

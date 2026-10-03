@@ -33,7 +33,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
           <div>
             <div className="flex items-center gap-1.5">
               <span className="font-bangers text-2xl sm:text-3xl text-white tracking-wider group-hover:text-[#00c805] transition-colors">
-                RobinDegen
+                WhatTheFrog
               </span>
               <span className="bg-[#00c805]/15 text-[#00c805] text-[10px] font-bold px-2 py-0.5 rounded-full border border-[#00c805]/30 flex items-center gap-1">
                 <span className="w-1.5 h-1.5 rounded-full bg-[#00c805] animate-ping" />
@@ -77,7 +77,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
 
           {/* Telegram Placeholder Link */}
           <a
-            href="https://t.me/robindegenmeme"
+            href="https://t.me/"
             target="_blank"
             rel="noopener noreferrer"
             title="Telegram Community (Link to be updated)"
@@ -88,7 +88,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
 
           {/* X / Twitter Placeholder Link */}
           <a
-            href="https://x.com/robindegenmeme"
+            href="https://x.com/"
             target="_blank"
             rel="noopener noreferrer"
             title="X / Twitter Page (Link to be updated)"
