@@ -14,7 +14,7 @@ import { Check, Sparkles } from 'lucide-react';
 
 export default function App() {
   // Placeholder contract address (user mentioned contract address will be put later)
-  const [contractAddress] = useState<string>("0xRobinDegen00000000000000000000000000000000");
+  const [contractAddress] = useState<string>("TBD");
   const [copied, setCopied] = useState<boolean>(false);
 
   const triggerConfetti = () => {

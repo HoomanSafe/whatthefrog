@@ -115,7 +115,7 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
 
               {/* X / Twitter Link Placeholder */}
               <a
-                href="https://x.com/"
+                href="https://x.com/wtfonhood"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => playCoinSound()}

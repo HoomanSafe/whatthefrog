@@ -88,7 +88,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
 
           {/* X / Twitter Placeholder Link */}
           <a
-            href="https://x.com/"
+            href="https://x.com/wtfonhood"
             target="_blank"
             rel="noopener noreferrer"
             title="X / Twitter Page (Link to be updated)"
