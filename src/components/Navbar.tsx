@@ -25,26 +25,24 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
         
         {/* Brand Logo */}
         <a href="#" className="flex items-center gap-3 group">
-  <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-[#00c805] to-[#0b330e] p-[0.5px] shadow-[0_0_15px_rgba(0,200,5,0.4)] group-hover:scale-105 transition-transform overflow-hidden">
-    <img 
-      src={require('@/assets/images/WTF1.jpeg').default} // Sesuaikan path import jika menggunakan bundler lain
-      alt="WhatTheFrog Logo" 
-      className="w-full h-full object-contain bg-[#000000] rounded-[10.5px]" 
-    />
-  </div>
-  <div>
-    <div className="flex items-center gap-1.5">
-      <span className="font-bangers text-2xl sm:text-3xl text-white tracking-wider group-hover:text-[#00c805] transition-colors">
-        WhatTheFrog
-      </span>
-      <span className="bg-[#00c805]/15 text-[#00c805] text-[10px] font-bold px-2 py-0.5 rounded-full border border-[#00c805]/30 flex items-center gap-1">
-        <span className="w-1.5 h-1.5 rounded-full bg-[#00c805] animate-ping" />
-        Robinhood Chain
-      </span>
-    </div>
-    <p className="text-[10px] font-mono text-gray-400 -mt-1 hidden sm:block">$WTF</p>
-  </div>
-</a>
+          <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-[#00c805] to-[#0b330e] p-[2px] shadow-[0_0_15px_rgba(0,200,5,0.4)] group-hover:scale-105 transition-transform">
+            <div className="w-full h-full bg-[#080d08] rounded-[10px] flex items-center justify-center text-2xl font-black">
+              <span className="text-[#00c805] group-hover:rotate-12 transition-transform inline-block">🐸</span>
+            </div>
+          </div>
+          <div>
+            <div className="flex items-center gap-1.5">
+              <span className="font-bangers text-2xl sm:text-3xl text-white tracking-wider group-hover:text-[#00c805] transition-colors">
+                WhatTheFrog
+              </span>
+              <span className="bg-[#00c805]/15 text-[#00c805] text-[10px] font-bold px-2 py-0.5 rounded-full border border-[#00c805]/30 flex items-center gap-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-[#00c805] animate-ping" />
+                Robinhood Chain
+              </span>
+            </div>
+            <p className="text-[10px] font-mono text-gray-400 -mt-1 hidden sm:block">$WTF</p>
+          </div>
+        </a>
 
         {/* Desktop Nav Links */}
         <nav className="hidden md:flex items-center gap-6 text-sm font-semibold tracking-wide">
