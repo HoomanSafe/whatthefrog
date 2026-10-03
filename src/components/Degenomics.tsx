@@ -44,7 +44,7 @@ export const Degenomics: React.FC = () => {
             </div>
             <span className="text-xs font-mono text-gray-400 block uppercase">TOTAL SUPPLY</span>
             <span className="font-bangers text-3xl text-white text-glow">1,000,000,000</span>
-            <span className="text-[11px] font-mono text-[#00c805] block mt-1">$RobinDegen</span>
+            <span className="text-[11px] font-mono text-[#00c805] block mt-1">$WTF</span>
           </div>
 
           <div className="p-6 rounded-3xl bg-[#0f1a0f] border border-[#00c805]/30 text-center glow-box">
@@ -109,9 +109,9 @@ export const Degenomics: React.FC = () => {
             {/* Input 1: Token Holdings Slider */}
             <div className="space-y-2">
               <div className="flex justify-between text-xs font-mono">
-                <span className="text-gray-400">YOUR $RobinDegen BAG:</span>
+                <span className="text-gray-400">YOUR $WTF BAG:</span>
                 <span className="text-[#00c805] font-bold text-sm">
-                  {tokenHoldings.toLocaleString()} $RobinDegen
+                  {tokenHoldings.toLocaleString()} $WTF
                 </span>
               </div>
               <input

@@ -58,7 +58,7 @@ export const WhyRobinDegen: React.FC = () => {
           </h2>
 
           <p className="text-gray-300 font-outfit text-lg">
-            Not financial advice. Just financial freedom. Here is why the Robinhood Chain community is uniting under the $RobinDegen banner.
+            Not financial advice. Just financial freedom. Here is why the Robinhood Chain community is uniting under the $WTF banner.
           </p>
         </div>
 

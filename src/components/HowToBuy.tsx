@@ -32,14 +32,14 @@ export const HowToBuy: React.FC<HowToBuyProps> = ({ contractAddress, onCopyCA, c
       num: "03",
       title: "Connect to DEX & Paste CA",
       icon: Copy,
-      desc: "Connect your wallet to Robinhood Chain Swap / DEX. Paste the official $RobinDegen contract address into the token selector.",
+      desc: "Connect your wallet to Robinhood Chain Swap / DEX. Paste the official $WTF contract address into the token selector.",
       actionText: "Verify CA before swapping",
     },
     {
       num: "04",
-      title: "Swap for $RobinDegen & HODL",
+      title: "Swap for $WTF & HODL",
       icon: Rocket,
-      desc: "Swap your ETH/USDT for $RobinDegen with 0.5% slippage. Confirm the transaction, sit back, and ride green candles to the moon! 🚀",
+      desc: "Swap your ETH/USDT for $WTF with 0.5% slippage. Confirm the transaction, sit back, and ride green candles to the moon! 🚀",
       actionText: "0% Buy Tax • 0% Sell Tax",
     },
   ];
@@ -64,7 +64,7 @@ export const HowToBuy: React.FC<HowToBuyProps> = ({ contractAddress, onCopyCA, c
           </div>
 
           <h2 className="font-bangers text-5xl sm:text-6xl text-white tracking-wide uppercase">
-            How To Buy <span className="text-[#00c805] text-glow">$RobinDegen</span>
+            How To Buy <span className="text-[#00c805] text-glow">$WTF</span>
           </h2>
 
           <p className="text-gray-300 font-outfit text-lg">

@@ -40,7 +40,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
                 Robinhood Chain
               </span>
             </div>
-            <p className="text-[10px] font-mono text-gray-400 -mt-1 hidden sm:block">$RobinDegen</p>
+            <p className="text-[10px] font-mono text-gray-400 -mt-1 hidden sm:block">$WTF</p>
           </div>
         </a>
 
@@ -50,7 +50,7 @@ export const Navbar: React.FC<NavbarProps> = ({ contractAddress, onCopyCA, copie
             About
           </a>
           <a href="#why" className="text-gray-300 hover:text-[#00c805] transition-colors hover:scale-105 transform">
-            Why $RobinDegen
+            Why $WTF
           </a>
           <a href="#degenomics" className="text-gray-300 hover:text-[#00c805] transition-colors hover:scale-105 transform">
             Degenomics

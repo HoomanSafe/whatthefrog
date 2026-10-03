@@ -46,7 +46,7 @@ export const AboutSection: React.FC = () => {
             
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#00c805]/10 border border-[#00c805]/30 text-[#00c805] text-xs font-mono font-bold uppercase tracking-wider">
               <Flame className="w-4 h-4" />
-              <span>THE LEGEND OF $RobinDegen</span>
+              <span>THE LEGEND OF $WTF</span>
             </div>
 
             <h2 className="font-bangers text-5xl sm:text-6xl text-white tracking-wide uppercase leading-tight">

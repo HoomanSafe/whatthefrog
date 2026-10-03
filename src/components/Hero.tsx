@@ -50,11 +50,11 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
               <h1 className="font-bangers text-6xl sm:text-7xl lg:text-8xl tracking-wider text-white leading-none uppercase">
                 Welcome To <br className="hidden sm:inline" />
                 <span className="text-[#00c805] text-glow inline-block hover:scale-105 transition-transform duration-300">
-                  RobinDegen
+                  WhatTheFrog
                 </span>
               </h1>
               <p className="font-marker text-yellow-400 text-xl sm:text-2xl mt-3 text-glow-yellow">
-                $RobinDegen — Where Memes Meet Moon Missions. 🚀🏹💚
+                $WTF — Where Memes Meet Moon Missions. 🚀🏹💚
               </p>
             </div>
 
@@ -98,12 +98,12 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
                 className="px-8 py-4 rounded-2xl bg-[#00c805] text-black font-black text-lg tracking-wider flex items-center gap-3 shadow-[0_0_30px_rgba(0,200,5,0.5)] hover:bg-[#20e025] hover:scale-105 hover:shadow-[0_0_45px_rgba(0,200,5,0.8)] transition-all cursor-pointer active:scale-95"
               >
                 <Rocket className="w-6 h-6 animate-bounce" />
-                <span>BUY $RobinDegen</span>
+                <span>BUY $WTF</span>
               </a>
 
               {/* Telegram Link Placeholder */}
               <a
-                href="https://t.me/robindegenmeme"
+                href="https://t.me/"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => playCoinSound()}
@@ -115,7 +115,7 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
 
               {/* X / Twitter Link Placeholder */}
               <a
-                href="https://x.com/robindegenmeme"
+                href="https://x.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => playCoinSound()}
@@ -193,7 +193,7 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
       {/* Ticker Banner */}
       <div className="mt-12 py-3 bg-[#00c805] text-black font-bangers text-2xl tracking-widest overflow-hidden border-y-2 border-black rotate-[-1deg] shadow-[0_0_20px_rgba(0,200,5,0.5)]">
         <div className="animate-marquee whitespace-nowrap flex items-center gap-8">
-          <span>🚀 $RobinDegen</span>
+          <span>🚀 $WTF</span>
           <span>•</span>
           <span>BUILT ON ROBINHOOD CHAIN 🍃</span>
           <span>•</span>
@@ -205,7 +205,7 @@ export const Hero: React.FC<HeroProps> = ({ contractAddress, onCopyCA, copied, o
           <span>•</span>
           <span>STEALING FROM THE RICH, SENDING IT TO THE MOON!</span>
           <span>•</span>
-          <span>🚀 $RobinDegen</span>
+          <span>🚀 $WTF</span>
           <span>•</span>
           <span>BUILT ON ROBINHOOD CHAIN 🍃</span>
           <span>•</span>

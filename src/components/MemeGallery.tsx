@@ -41,7 +41,7 @@ export const MemeGallery: React.FC = () => {
           </h2>
 
           <p className="text-gray-300 font-outfit text-lg">
-            Download high-res artwork to spread the $RobinDegen movement across Telegram, X, and Reddit.
+            Download high-res artwork to spread the $WTF movement across Telegram, X, and Reddit.
           </p>
         </div>
 

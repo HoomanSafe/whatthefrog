@@ -25,7 +25,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
             <span className="text-3xl">🏹</span>
             <div>
               <span className="font-bangers text-3xl text-white tracking-wider">RobinDegen</span>
-              <p className="text-xs font-mono text-[#00c805]">$RobinDegen • Built on Robinhood Chain 🍃</p>
+              <p className="text-xs font-mono text-[#00c805]">$WTF • Built on Robinhood Chain 🍃</p>
             </div>
           </div>
 
@@ -33,7 +33,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
           <div className="flex flex-wrap items-center justify-center gap-3">
             
             <a
-              href="https://t.me/robindegenmeme"
+              href="https://t.me/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2.5 rounded-xl bg-[#0e170e] border border-[#00c805]/30 text-white hover:text-[#00c805] hover:border-[#00c805] font-mono text-xs font-bold flex items-center gap-2 transition-all"
@@ -43,7 +43,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
             </a>
 
             <a
-              href="https://x.com/robindegenmeme"
+              href="https://x.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2.5 rounded-xl bg-[#0e170e] border border-[#00c805]/30 text-white hover:text-[#00c805] hover:border-[#00c805] font-mono text-xs font-bold flex items-center gap-2 transition-all"
@@ -80,7 +80,7 @@ export const DisclaimerFooter: React.FC<DisclaimerFooterProps> = ({ contractAddr
 
         {/* Bottom Rights & Back to Top */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-gray-400 pt-4">
-          <p>© {new Date().getFullYear()} RobinDegen ($RobinDegen). Community Owned & Powered by Robinhood Chain.</p>
+          <p>© {new Date().getFullYear()} RobinDegen ($WTF). Community Owned & Powered by Robinhood Chain.</p>
           
           <button
             onClick={scrollToTop}
