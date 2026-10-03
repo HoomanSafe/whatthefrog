@@ -1,9 +1,9 @@
 // Export paths to generated RobinDegen artwork assets
 
-import heroImg from '../assets/images/robindegen_hero_1785072664531.jpg';
-import armyImg from '../assets/images/robindegen_army_1785072680931.jpg';
-import lamboImg from '../assets/images/robindegen_lambo_1785072695936.jpg';
-import moonImg from '../assets/images/robindegen_moon_1785072709553.jpg';
+import heroImg from '../assets/images/WTF1.jpeg';
+import armyImg from '../assets/images/WTF2.jpeg';
+import lamboImg from '../assets/images/WTF3.jpeg';
+import moonImg from '../assets/images/WTF4.jpeg';
 
 export const ROBIN_DEGEN_IMAGES = {
   hero: heroImg,
